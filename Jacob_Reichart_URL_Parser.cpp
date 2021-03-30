@@ -7,7 +7,7 @@
 
 using namespace std;
 
-string mainUrl = "https://scs.utdallas.edu:80/directory/faculty/people.html?name=Robert";
+string mainUrl = "https://scs.utdallas.edu:80/directory/faculty/people.html?name=Robert"; //default string
 string protocol; //required
 int protocolError = 0;
 string domain; //required
